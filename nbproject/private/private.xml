@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/UserModel.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Controller/MainMenuController.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Connection/DBConnection.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/UserMainMenu.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/AdminMainMenu.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/RegistrationForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/UserSession.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/icons/logo.png</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/EditProfileForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/LoginFrame.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/BookingModel.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/AddWagonForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/AddTrainForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/BookATrainForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Controller/AdminController.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/WagonModel.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/BookingHistoryForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/RouteModel.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/ViewBookingsForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Controller/LoginController.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/AdminModel.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/View/AddWagonToTrainForm.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/TrainModel.java</file>
+            <file>file:/D:/PBO/TUBES/TUBES/src/Model/NotificationService.java</file>
+        </group>
+    </open-files>
+</project-private>
